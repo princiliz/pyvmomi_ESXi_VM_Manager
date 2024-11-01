@@ -15,7 +15,7 @@ Automatisation et simplifica# PyVmomi ESXi VM Manager
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/pyvmomi_ESXi_VM_Manager.git
+   git clone (https://github.com/princiliz/pyvmomi_ESXi_VM_Manager)
    cd pyvmomi_ESXi_VM_Manager
 
 2. Installez les dépendances requises :
