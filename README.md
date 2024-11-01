@@ -70,7 +70,3 @@ Les dépendances nécessaires pour exécuter ces scripts sont listées dans `req
 
 ```text
 pyvmomi>=7.0.3
-
-```
-
-Ce README est prêt pour une utilisation dans ton fichier `README.md` !
